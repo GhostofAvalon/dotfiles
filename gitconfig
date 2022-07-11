@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ghostofavalon@gmail.com
+	name = Julien Abello
